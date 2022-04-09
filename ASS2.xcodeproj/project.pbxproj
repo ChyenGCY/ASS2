@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		50F49E932801E45200B2197A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 50F49E922801E45200B2197A /* main.cpp */; };
+		50F49EA02801E4A200B2197A /* test.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 50F49E9B2801E4A200B2197A /* test.cpp */; };
+		50F49EA22801E4A200B2197A /* assign2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 50F49E9E2801E4A200B2197A /* assign2.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,13 @@
 /* Begin PBXFileReference section */
 		50F49E8F2801E45200B2197A /* ASS2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ASS2; sourceTree = BUILT_PRODUCTS_DIR; };
 		50F49E922801E45200B2197A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		50F49E992801E4A200B2197A /* mytest.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = mytest.hpp; path = ASS2/mytest.hpp; sourceTree = "<group>"; };
+		50F49E9A2801E4A200B2197A /* assign2.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = assign2.hpp; path = ASS2/assign2.hpp; sourceTree = "<group>"; };
+		50F49E9B2801E4A200B2197A /* test.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = test.cpp; path = ASS2/test.cpp; sourceTree = "<group>"; };
+		50F49E9C2801E4A200B2197A /* mytest.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = mytest.cpp; path = ASS2/mytest.cpp; sourceTree = "<group>"; };
+		50F49E9D2801E4A200B2197A /* assign2_tree.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = assign2_tree.hpp; path = ASS2/assign2_tree.hpp; sourceTree = "<group>"; };
+		50F49E9E2801E4A200B2197A /* assign2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = assign2.cpp; path = ASS2/assign2.cpp; sourceTree = "<group>"; };
+		50F49E9F2801E4A200B2197A /* assign2_exception.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = assign2_exception.hpp; path = ASS2/assign2_exception.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +49,13 @@
 		50F49E862801E45200B2197A = {
 			isa = PBXGroup;
 			children = (
+				50F49E9F2801E4A200B2197A /* assign2_exception.hpp */,
+				50F49E9D2801E4A200B2197A /* assign2_tree.hpp */,
+				50F49E9E2801E4A200B2197A /* assign2.cpp */,
+				50F49E9A2801E4A200B2197A /* assign2.hpp */,
+				50F49E9C2801E4A200B2197A /* mytest.cpp */,
+				50F49E992801E4A200B2197A /* mytest.hpp */,
+				50F49E9B2801E4A200B2197A /* test.cpp */,
 				50F49E912801E45200B2197A /* ASS2 */,
 				50F49E902801E45200B2197A /* Products */,
 			);
@@ -119,7 +134,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				50F49E932801E45200B2197A /* main.cpp in Sources */,
+				50F49EA02801E4A200B2197A /* test.cpp in Sources */,
+				50F49EA22801E4A200B2197A /* assign2.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
