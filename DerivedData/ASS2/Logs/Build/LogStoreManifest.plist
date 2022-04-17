@@ -5,6 +5,109 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>863446C5-7D00-45A3-9912-6CAB1960646E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>863446C5-7D00-45A3-9912-6CAB1960646E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ASS2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ASS2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ASS2</string>
+			<key>timeStartedRecording</key>
+			<real>671340678.23584199</real>
+			<key>timeStoppedRecording</key>
+			<real>671340679.32467902</real>
+			<key>title</key>
+			<string>Build ASS2</string>
+			<key>uniqueIdentifier</key>
+			<string>863446C5-7D00-45A3-9912-6CAB1960646E</string>
+		</dict>
+		<key>8FC0D95D-CE82-4FF5-B8AF-4F04FBD3C3C4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8FC0D95D-CE82-4FF5-B8AF-4F04FBD3C3C4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ASS2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ASS2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ASS2</string>
+			<key>timeStartedRecording</key>
+			<real>671342556.78692198</real>
+			<key>timeStoppedRecording</key>
+			<real>671342556.87366199</real>
+			<key>title</key>
+			<string>Build ASS2</string>
+			<key>uniqueIdentifier</key>
+			<string>8FC0D95D-CE82-4FF5-B8AF-4F04FBD3C3C4</string>
+		</dict>
+		<key>B6A98EDE-3D84-4485-A46F-9E980048C23A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B6A98EDE-3D84-4485-A46F-9E980048C23A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ASS2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ASS2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ASS2</string>
+			<key>timeStartedRecording</key>
+			<real>671264798.33245099</real>
+			<key>timeStoppedRecording</key>
+			<real>671264798.34667897</real>
+			<key>title</key>
+			<string>Build ASS2</string>
+			<key>uniqueIdentifier</key>
+			<string>B6A98EDE-3D84-4485-A46F-9E980048C23A</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

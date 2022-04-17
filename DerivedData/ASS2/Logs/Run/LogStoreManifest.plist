@@ -5,6 +5,109 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>B442DD1B-A9CF-44CF-8225-3C74FA470CF6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B442DD1B-A9CF-44CF-8225-3C74FA470CF6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ASS2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ASS2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ASS2</string>
+			<key>timeStartedRecording</key>
+			<real>671264798.347561</real>
+			<key>timeStoppedRecording</key>
+			<real>671264933.23458397</real>
+			<key>title</key>
+			<string>Run ASS2</string>
+			<key>uniqueIdentifier</key>
+			<string>B442DD1B-A9CF-44CF-8225-3C74FA470CF6</string>
+		</dict>
+		<key>B544D1C6-8253-4BAB-A7B3-FC06F69A6720</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B544D1C6-8253-4BAB-A7B3-FC06F69A6720.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ASS2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ASS2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ASS2</string>
+			<key>timeStartedRecording</key>
+			<real>671340679.33092296</real>
+			<key>timeStoppedRecording</key>
+			<real>671340711.48904502</real>
+			<key>title</key>
+			<string>Run ASS2</string>
+			<key>uniqueIdentifier</key>
+			<string>B544D1C6-8253-4BAB-A7B3-FC06F69A6720</string>
+		</dict>
+		<key>E45DAD9A-0942-413F-A31D-002E0DA88475</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E45DAD9A-0942-413F-A31D-002E0DA88475.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ASS2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ASS2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ASS2</string>
+			<key>timeStartedRecording</key>
+			<real>671342556.87667704</real>
+			<key>timeStoppedRecording</key>
+			<real>671342562.22404599</real>
+			<key>title</key>
+			<string>Run ASS2</string>
+			<key>uniqueIdentifier</key>
+			<string>E45DAD9A-0942-413F-A31D-002E0DA88475</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
